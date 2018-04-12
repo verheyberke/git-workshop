@@ -20,3 +20,5 @@ Kooktijd: 90 minuten. Alle hop is in één keer toegevoegd.
 Gist: Chimay
 Begin SG: 1100
 Eind SG: 1012
+
+Timing: 9882
